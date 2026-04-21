@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to PR 2025.
+1 paper is accepted to Pattern Recognition 2025.
