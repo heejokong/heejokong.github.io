@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-23
+date: 2026-01-16
 inline: true
 related_posts: false
 ---
 
-1 paper is accepted to TNNLS 2025.
+1 paper is accepted to ICASSP 2026.
